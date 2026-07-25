@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-a1nctf.aquariumlesson.com/sitemap.xml
